@@ -27,10 +27,9 @@ body{
      margin-left: 10px;
      margin-right: 10px;
      border: 10px, rgb(186, 208, 241);
-
   }
-  
-  section#habilidades {
+
+section#habilidades {
     color: rgb(243, 237, 237);
     background-color: rgb(20, 15, 82);
      margin-left: 10px;
@@ -38,7 +37,7 @@ body{
      border: 10px, rgb(186, 208, 241);
   }
     
-  section#contacto {
+ section#contacto {
      color: white;
      background-color: rgb(20, 15, 82);
      margin-left: 10px;
