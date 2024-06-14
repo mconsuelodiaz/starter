@@ -1,13 +1,47 @@
 body{
-    background-color: blue;
-}
-
-header{
-    background-color: grey;
-    margin-left: 50px; 
-    margin-right: 50px; 
-    border: 10px groove white; 
-    padding: 20px 
-    border-radius 10px; 
-}
+    background-color: rgb(128, 126, 235);
+    border: 20px rgb(247, 238, 242);
+    font-family: 'Barlow Condensed';font-size: 15px;
+  }
+  
+  header {
+    color: rgb(243, 237, 237);
+    background-color: rgb(20, 15, 82);
+    margin-left: 10px;
+    margin-right: 10px;
+    border: 10px rgb(186, 208, 241);
+    padding: 20px;
+  }
+  
+  section#ADM {
+    color: rgb(243, 237, 237);
+    background-color: rgb(20, 15, 82);
+     margin-left: 10px;
+     margin-right: 10px;
+     border: 10px, rgb(186, 208, 241);
+  }
     
+  section#EL {
+    color: rgb(243, 237, 237);
+    background-color: rgb(20, 15, 82);
+     margin-left: 10px;
+     margin-right: 10px;
+     border: 10px, rgb(186, 208, 241);
+  }
+
+section#habilidades {
+    color: rgb(243, 237, 237);
+    background-color: rgb(20, 15, 82);
+     margin-left: 10px;
+     margin-right: 10px;
+     border: 10px, rgb(186, 208, 241);
+  }
+    
+ section#contacto {
+     color: white;
+     background-color: rgb(20, 15, 82);
+     margin-left: 10px;
+     margin-right: 10px;
+     border: 10px, rgb(186, 208, 241);
+  }
+  
