@@ -1,4 +1,9 @@
 body{
-    background-color: grey;
+    background-color: rgb(187, 189, 243);
 }
 
+header {
+    background-color: rgb(7, 7, 71);
+    margin-left: 50px;
+    margin-right: 50px;
+}
